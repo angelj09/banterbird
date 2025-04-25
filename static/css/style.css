@@ -1,0 +1,12 @@
+/* style.css */
+
+body {
+    font-family: Georgia;
+    background-color: #FFE6F1;
+    padding: 15px;
+    color: black;
+}
+
+#feed {
+    margin-top: 30px;
+}
